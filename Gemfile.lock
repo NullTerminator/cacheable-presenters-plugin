@@ -17,7 +17,7 @@ GIT
 PATH
   remote: .
   specs:
-    cacheable_presenters_plugin (0.0.2)
+    cacheable_presenters_plugin (0.0.3)
 
 GEM
   remote: https://rubygems.org/
@@ -41,7 +41,7 @@ GEM
     rack (2.0.6)
     rack-protection (2.0.5)
       rack
-    rake (10.5.0)
+    rake (12.3.3)
     redcarpet (3.4.0)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
@@ -74,7 +74,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.0)
   cacheable_presenters_plugin!
-  rake (~> 10.0)
+  rake (~> 12.3)
   rspec
   voom-presenters!
 

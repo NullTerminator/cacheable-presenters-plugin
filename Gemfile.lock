@@ -17,7 +17,7 @@ GIT
 PATH
   remote: .
   specs:
-    cacheable_presenters_plugin (0.0.2)
+    cacheable_presenters_plugin (0.0.3)
 
 GEM
   remote: https://rubygems.org/
@@ -38,7 +38,7 @@ GEM
     mustermann (1.0.3)
     nokogiri (1.10.1)
       mini_portile2 (~> 2.4.0)
-    rack (2.0.6)
+    rack (2.2.3)
     rack-protection (2.0.5)
       rack
     rake (10.5.0)

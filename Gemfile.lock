@@ -17,7 +17,7 @@ GIT
 PATH
   remote: .
   specs:
-    cacheable_presenters_plugin (0.0.2)
+    cacheable_presenters_plugin (0.0.3)
 
 GEM
   remote: https://rubygems.org/
@@ -35,11 +35,12 @@ GEM
     dry-inflector (0.1.2)
     ice_nine (0.11.2)
     mini_portile2 (2.4.0)
-    mustermann (1.0.3)
+    mustermann (1.1.1)
+      ruby2_keywords (~> 0.0.1)
     nokogiri (1.10.1)
       mini_portile2 (~> 2.4.0)
-    rack (2.0.6)
-    rack-protection (2.0.5)
+    rack (2.2.3)
+    rack-protection (2.2.0)
       rack
     rake (10.5.0)
     redcarpet (3.4.0)
@@ -56,13 +57,14 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.8.0)
     rspec-support (3.8.0)
-    sinatra (2.0.5)
+    ruby2_keywords (0.0.5)
+    sinatra (2.2.0)
       mustermann (~> 1.0)
-      rack (~> 2.0)
-      rack-protection (= 2.0.5)
+      rack (~> 2.2)
+      rack-protection (= 2.2.0)
       tilt (~> 2.0)
     thread_safe (0.3.6)
-    tilt (2.0.9)
+    tilt (2.0.10)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
     tzinfo-data (1.2018.9)

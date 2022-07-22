@@ -17,7 +17,7 @@ GIT
 PATH
   remote: .
   specs:
-    cacheable_presenters_plugin (0.0.2)
+    cacheable_presenters_plugin (0.0.3)
 
 GEM
   remote: https://rubygems.org/
@@ -63,7 +63,7 @@ GEM
       tilt (~> 2.0)
     thread_safe (0.3.6)
     tilt (2.0.9)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     tzinfo-data (1.2018.9)
       tzinfo (>= 1.0.0)
